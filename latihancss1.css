@@ -1,0 +1,46 @@
+body{
+	background-image: url(https://bloganchoi.com/wp-content/uploads/2022/03/chuong-trinh-going-seventeen.jpg);
+}
+#tampilan{
+	background-color:#ccdbe2 ;
+	width: 1800px;
+	height: 2500px;
+	margin: auto;
+	padding: 8px;
+}
+#header{
+	background-color:#819db7  ;
+	height: 200px;
+	width: 1800px;
+	overflow: hidden;
+}
+#text{
+	background-color: #fafaf6;
+	height: 50px;
+	width: 1800px;
+	overflow: hidden;
+	border-style: hidden;
+	border-color: darkblue;
+}
+#menu{
+	background:#070c38 ;
+	height: 20px;
+	width: 1800px;
+}
+#kiri{
+	background:#fed6f8   ;
+	height: 2100px;
+	width: 1000px;
+	float:left;
+	border-style: ridge;
+	border-color: #061c26 ;
+}
+#Kanan{
+	background: #a2a4e8 ;
+	height: 3000px;
+	width: 500px;
+	float: right;
+	border-color:#061c26 ;
+	border-style: ridge;
+}
+ 
